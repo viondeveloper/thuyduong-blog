@@ -1,0 +1,10 @@
+@import "../../styles/variables.module.scss";
+
+.Container {
+  max-width: 100%;
+  padding: 0;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: $back_ground_pink;
+}
+
